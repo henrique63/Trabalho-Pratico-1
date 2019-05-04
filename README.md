@@ -5,7 +5,9 @@ Matrícula: 427953
 
 Manual: 
 
-1. Ao abrir o documento com os arquivos, selecione a classe principal (nomeada de Principal.java) e a exucute.
+1. Ao extrair a pasta com os arquivos do download, abra o NetBeans IDE (ou outro IDE). Na barra inicial, selecione "Arquivo" e depois "Abrir Projeto...".
+2. Vai abrir uma janela onde você deve procurar, selecionar e abrir a pasta extraída do download.  
+3. Ao executar esse processo, selecione a classe principal (nomeada de Principal.java) e a execute."
 2. Aparecerá uma pequena janela com uma mensagem de boas-vindas.
 3. Em seguida, apareça várias janelas onde cada uma pedirá informações, como o número da conta, nome e saldo inicial, para o cadastro de sua conta comum, poupança e especial, respectivamente (você pode acompanhar o cadastro através do título da janela). 
 OBS: Não poderá criar uma nova conta usando um número já cadastrado. 
